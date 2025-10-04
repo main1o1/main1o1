@@ -5,6 +5,4 @@
 
  Hello World<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-1
-[<img src="[header.png](https://github.com/main1o/main1o/raw/main/header.png)">](https://github.com/main1o/main1o/raw/main/header.png)
-https://github.com/main1o/main1o/raw/main/header.png
+ 
